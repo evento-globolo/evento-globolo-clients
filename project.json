@@ -1,0 +1,23 @@
+{
+  "bootstrap_date": "20260804",
+  "kind": "clients",
+  "organization": "evento-globolo",
+  "repository": "evento-globolo-clients",
+  "required_paths": [
+    ".github/workflows/ci.yml",
+    ".gitignore",
+    "clients/dart/lib/client.dart",
+    "clients/erlang/src/client.erl",
+    "clients/gleam/src/client.gleam",
+    "clients/go/client.go",
+    "clients/go/go.mod",
+    "clients/rust/Cargo.toml",
+    "clients/rust/src/lib.rs",
+    "clients/typescript/src/index.ts",
+    "clients/wasm/README.md",
+    "scripts/verify_repo.py"
+  ],
+  "schema_version": 1,
+  "tracking_issue": "DEN-1889",
+  "visibility": "public"
+}
