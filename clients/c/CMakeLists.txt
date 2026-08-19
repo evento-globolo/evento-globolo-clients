@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.20)
+project(evento_globolo_client C)
+add_library(evento_globolo_client src/evento_globolo_client.c)
+target_include_directories(evento_globolo_client PUBLIC include)
+target_compile_features(evento_globolo_client PUBLIC c_std_11)
