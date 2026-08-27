@@ -1,0 +1,10 @@
+{
+  "apiSurface": "clients/api-surface.json",
+  "apiSurfaceSha256": "f6a953e428fa74245aa7343e0a515bfd469399e2466d87aad04dddc8d3cfcbce",
+  "coordinate": "evento-globolo/evento-globolo-clients",
+  "runtime": "kotlin",
+  "schemaId": "https://zpkg.tech/schemas/client-api.schema.json",
+  "schemaVersion": 1,
+  "target": "kotlin",
+  "zedTarget": "kotlin"
+}

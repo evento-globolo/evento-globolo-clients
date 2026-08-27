@@ -1,0 +1,5 @@
+{
+  "exports": "./mod.ts",
+  "name": "@evento-globolo/evento-globolo-client-deno",
+  "version": "0.1.0"
+}

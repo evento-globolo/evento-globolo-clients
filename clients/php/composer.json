@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "ZedPkg\\EventoGlobolo\\": "src/"
+    }
+  },
+  "name": "evento-globolo/evento-globolo-client",
+  "require": {
+    "php": ">=8.2"
+  },
+  "type": "library"
+}
