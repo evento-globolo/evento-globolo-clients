@@ -2,7 +2,7 @@
 org = "evento-globolo"
 name = "evento-globolo-clients"
 version = "0.1.0"
-description = "Polyglot client SDKs for evento-globolo/evento-globolo-clients."
+description = "Polyglot SDK clients for Evento Globolo"
 license = "MIT"
 
 [package.repository]
@@ -11,6 +11,13 @@ url = "https://github.com/evento-globolo/evento-globolo-clients"
 
 [install]
 dir = ".vendor/.zed"
+
+[dependencies]
+"evento-globolo/evgl-interfaces" = "^0.1.0"
+
+[publish]
+include_readme = true
+tag_format = "v{version}"
 
 [targets.repository]
 dir = "."
