@@ -1,0 +1,11 @@
+{
+  "apiSurfaceSha256": "f6a953e428fa74245aa7343e0a515bfd469399e2466d87aad04dddc8d3cfcbce",
+  "changed": [],
+  "errors": [],
+  "minimumTargets": 15,
+  "mode": "write",
+  "prefix": "evento-globolo",
+  "repository": "evento-globolo/evento-globolo-clients",
+  "schemaVersion": 1,
+  "standardTargets": 20
+}
